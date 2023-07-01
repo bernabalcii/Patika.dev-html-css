@@ -7,3 +7,7 @@ HTML Ödev 1
 HTML Ödev 2
 - index2.html
 - index2.css
+
+HTML Ödev 3
+- tarif.html
+- tarif.css
