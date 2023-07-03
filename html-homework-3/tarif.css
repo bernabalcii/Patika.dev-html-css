@@ -1,0 +1,17 @@
+body {background-color: #e0c9a9;
+    font-family: 'Times New Roman', Times, serif;}
+
+h1 {color: #7B241C; text-align: center;}
+
+.cikolata {display: inline-block;}
+
+.cikolata img {height:auto; width:500px;}
+
+.info {text-align: center; font-weight: bold;}
+.info t {color: #943126;}
+.info a {margin-right:20px;}
+
+.tarif {position: relative; left: 400px; }
+.tarif t {background-color: #943126; color: white; border-radius: 5px; padding: 7px; font-weight: bold;}
+
+.alt {position: relative; text-align: right; font-weight: bold; margin-right:200px; font-size: 20px;}
