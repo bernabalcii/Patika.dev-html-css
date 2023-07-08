@@ -11,3 +11,8 @@ HTML Ödev 2
 HTML Ödev 3
 - tarif.html
 - tarif.css
+
+CSS Ödev 1
+- home.html
+- playstation.html
+- xbox.html
