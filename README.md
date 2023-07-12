@@ -16,3 +16,6 @@ CSS Ödev 1
 
 CSS Ödev 2
 ![image](https://github.com/bernabalcii/patika.dev-html-css/assets/113106702/b15c2b46-f51e-4c1a-b9f8-ef57905be2f0)
+
+CSS Ödev 3
+![image](https://github.com/bernabalcii/patika.dev-html-css/assets/113106702/51223cb7-a384-4b23-80bb-a6d029b31ad8)
